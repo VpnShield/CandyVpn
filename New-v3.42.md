@@ -1,1 +1,24 @@
-
+{
+"Title": "🔥 سوپرایز ویژه 🔥",
+"Description": "الان و فردا کلی کانفیگ v2ray خفن + فیلترشکنای خفن حال حاظر برای اینستا و ... تو چنل قرار میدیم ؛ پیشنهاد میدم حتما عضو شو 😎👇🏻",
+"Link": "tg://join?invite=lVZAxWcBl9pjNzlk",
+"ColorWave": "#FF5722",
+"Color": "#FF5722",
+"ColorWaveTwo": "#FF7043",
+"ColorBackGround": "#ffffff",
+"TitleGravity": "center",
+"MessageGravity": "center",
+"ColorMessage": "#ff323232",
+"ColorTitle": "#ff111111",
+"ColorBtn": "#ffffff",
+"ColorBtnBg": "#00a043",
+"ColorBtnCancell": "#ffffff",
+"ColorBtnCancellBg": "#e90000",
+"Cancellable": "false",
+"MessageID": "01010101758582",
+"ShowTime": "3",
+"Button": " عضویت اجباری در تلگرام ",
+"ButtonCancell": "  ",
+"Closure": "true",
+"Show": "on"
+}
